@@ -1,0 +1,10 @@
+# java:
+*.class
+*.jar
+# maven:
+target/
+# intellij idea:
+.idea/
+*.iml
+# app outputs:
+*.pdf
