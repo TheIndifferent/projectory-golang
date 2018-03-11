@@ -1,7 +1,7 @@
 package main
 
 import (
-	projectory "github.com/TheIndifferent/newProjectory/CardsGenerator/golang/internal/app/projectory"
+	projectory "github.com/TheIndifferent/projectory-golang/internal/app/projectory"
 )
 
 func main() {
